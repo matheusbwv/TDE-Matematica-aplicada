@@ -14,6 +14,12 @@ simbólica utilizando a biblioteca [Math.js](https://mathjs.org/).
 
 ## Como executar
 
+### Pré-requisitos
+
+- Node.js e npm instalados.
+
+### Instalação e execução
+
 ```bash
 npm install
 npm start
@@ -32,7 +38,7 @@ Matriz: [ [ 1, 2 ], [ 3, 4 ] ]
 Determinante: -2
 
 Função: x^2 + 3*x + 2
-Derivada: 2 x + 3
+Derivada: 2 * x + 3
 Derivada em x = 2: 7
 ```
 
@@ -40,7 +46,9 @@ Derivada em x = 2: 7
 
 ```text
 TDE1-MathJS/
+├── .gitignore
 ├── index.js
+├── package-lock.json
 ├── package.json
 └── README.md
 ```

@@ -36,7 +36,7 @@ O personagem é representado por um quadrado que pode ser movimentado pela tela 
 2. Abra o PowerShell e navegue até a pasta do projeto, que deve conter o arquivo `main.lua`:
 
    ```powershell
-   cd "C:\Users\Usuario\Desktop\TDE1-MathJS\TDE2"
+   cd "C:\Users\Usuario\Desktop\TDE-Matematica-aplicada\TDE2"
    ```
 
    Substitua o caminho acima pelo caminho da pasta do projeto no seu computador.
